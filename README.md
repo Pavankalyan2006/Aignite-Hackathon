@@ -43,37 +43,16 @@ Deploy – Our prototype is a self-contained, deployable static web application,
 Future Scope – Our roadmap includes deeper personalization through symptom and mood tracking, integration with wearable devices via Apple HealthKit and Google Fit, AI-powered grocery list generation, and a secure, view-only Caregiver Mode.
 
 👥 Team Details
-Team Name: Wellness Weavers (Please update with your team name)
+Team Name:Dreamers
 
-Name
+Name                                Role                                                     Email
+Vagicherla Pavan Kalyan          Team Lead                            2311cs020673@mallareddyuniversity.ac.in
 
-Role
+Surisetty Maruthi Ram Prakash    Team Member                          2311cs020641@mallareddyuniversity.ac.in
 
-Email
+Syed Mohammad Asad               Team Member                          2311cs020643@mallareddyuniversity.ac.in
 
-vagicherla Pavan Kalyan
-
-Team Lead
-
-your.email@example.com
-
-Teammate's Name
-
-Team Member
-
-teammate.email@example.com
-
-Teammate's Name
-
-Team Member
-
-teammate.email@example.com
-
-Teammate's Name
-
-Team Member
-
-teammate.email@example.com
+V Siri Chandhana                 Team Member                          2311cs020671@mallareddyuniversity.ac.in
 
 🛠️ Technology Stack
 HTML | Tailwind CSS | JavaScript | Firebase (Firestore & Auth) | Gemini API
