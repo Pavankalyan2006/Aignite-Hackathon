@@ -114,7 +114,7 @@ Tailwind CSS Documentation
 
 
 <!-- Login Page -->
-  <img src="[https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1_mH5op23iJfTVVFQoNwSApRJvp1PDP7I](https://drive.google.com/file/d/1_mH5op23iJfTVVFQoNwSApRJvp1PDP7I/view?usp=sharing)" alt="Application Logo" width="220" /><br><br>
+  <img src="https://drive.google.com/file/d/1_mH5op23iJfTVVFQoNwSApRJvp1PDP7I/view?usp=drive_link" alt="Application Logo" width="220" ><br><br>
 
   <!-- Dashboard 1 -->
   <img src="https://drive.google.com/uc?id=1TGoqFLc6imQf5mPYGr-83rCeT_5BweJH" alt="Dashboard1" width="600"><br><br>
