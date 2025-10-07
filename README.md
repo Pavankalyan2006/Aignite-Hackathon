@@ -5,7 +5,7 @@
 <p><strong>Powered by MLSC</strong></p>
 </div>
 
-<p align="center">
+<p,em align="center">
 <strong>🚀 IntelliHealth Assistant</strong>
 
 
