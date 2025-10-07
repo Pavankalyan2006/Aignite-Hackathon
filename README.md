@@ -30,10 +30,11 @@ Elderly individuals who need a simple, accessible tool for daily health tracking
 Health-conscious users experiencing "app fatigue" from using too many disconnected services.
 
 Caregivers who need to monitor the well-being of a loved one.
-<hr>
+
 <br>
 <hr>
 <b>🔬 Methodology</b>
+<hr>
 <br>
 <b>Research & Ideation –</b> We identified the critical user pain point of "app fatigue" in the digital health space. Our brainstorming focused on creating a solution centered on intelligent synthesis rather than just data tracking.
 <br>
@@ -49,6 +50,7 @@ Caregivers who need to monitor the well-being of a loved one.
 <br>
 <hr>
 <b>👥 Team Details</b>
+<hr>
 <br>
 <b>Team Name:</b>Dreamers<br>
 
