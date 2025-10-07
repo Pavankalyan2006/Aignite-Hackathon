@@ -49,10 +49,10 @@ Caregivers who need to monitor the well-being of a loved one.
 <b>Future Scope –</b> Our roadmap includes deeper personalization through symptom and mood tracking, integration with wearable devices via Apple HealthKit and Google Fit, AI-powered grocery list generation, and a secure, view-only Caregiver Mode.
 <br><br>
 <hr>
-<b>👥 Team Details</b><br><br>
+<b>👥 Team Details</b><br>
 <hr>
-<br>
-<b>Team Name:</b>Dreamers<br>
+
+<b>Team Name:</b>Dreamers<br><br>
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
