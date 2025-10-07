@@ -15,7 +15,8 @@
 </p>
 
 📖 Project Description
-✨ Problem Statement: How Might We transform the fragmented and often stressful daily chore of health management into a simple, unified, and empowering experience for everyone, especially those managing chronic conditions?
+<br>
+✨ Problem Statement: How Might We transform the fragmented and often stressful daily chore of health management into a simple, unified, and empowering experience for everyone, especially those managing chronic conditions?<br>
 
 💡 Proposed Solution: IntelliHealth Assistant is a mobile-first web application that acts as a single, intelligent source of truth for a user's well-being. It replaces the chaos of juggling multiple health apps with a unified dashboard. Our solution's core innovation is its ability to synthesize—it uses the Gemini AI to connect a user's personal health profile, daily activities, and real-time environmental factors to provide holistic, actionable guidance. Key features include an AI-powered Diet & Activity Planner, an on-demand "Mindful Moment" generator for mental wellness, and an AI Doctor Advisor that demystifies medical reports.
 
