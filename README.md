@@ -113,7 +113,7 @@ Tailwind CSS Documentation
 
 
 
-<img src="https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1_mH5op23iJfTVVFQoNwSApRJvp1PDP7I"  width="220" />
+<img src="https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1_mH5op23iJfTVVFQoNwSApRJvp1PDP7I" alt="login page" width="220" />
 
 
 
@@ -126,7 +126,7 @@ Tailwind CSS Documentation
 
 
 
-<img src="https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1TGoqFLc6imQf5mPYGr-83rCeT_5BweJH" width="600" />
+<img src="https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1TGoqFLc6imQf5mPYGr-83rCeT_5BweJH" alt="Dashboard1" width="600" />
 <br>
 
 
@@ -139,7 +139,7 @@ Tailwind CSS Documentation
 
 
 
-<img src="https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1rTa0asd1Jko1NxW0lLHImCS39rQBzl52"  width="600" />
+<img src="https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1rTa0asd1Jko1NxW0lLHImCS39rQBzl52" alt="Dashboard2" width="600" />
 </p>
 <br>
 <hr/>
