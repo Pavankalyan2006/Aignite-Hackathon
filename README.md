@@ -108,7 +108,7 @@ Tailwind CSS Documentation
 <br>
 <b>🖼️ Assets / Screenshots</b>
 <p align="center">
-<strong>Application Logo</strong>
+
 
 
 
