@@ -19,6 +19,7 @@
 <b>✨ Problem Statement:</b> How Might We transform the fragmented and often stressful daily chore of health management into a simple, unified, and empowering experience for everyone, especially those managing chronic conditions?<br>
 
 <b>💡 Proposed Solution: </b>IntelliHealth Assistant is a mobile-first web application that acts as a single, intelligent source of truth for a user's well-being. It replaces the chaos of juggling multiple health apps with a unified dashboard. Our solution's core innovation is its ability to synthesize—it uses the Gemini AI to connect a user's personal health profile, daily activities, and real-time environmental factors to provide holistic, actionable guidance. Key features include an AI-powered Diet & Activity Planner, an on-demand "Mindful Moment" generator for mental wellness, and an AI Doctor Advisor that demystifies medical reports.
+<br>
 
 <b>🎯 Target Users / Use Cases:</b> Our primary users are individuals seeking a proactive approach to their health, including:
 
@@ -30,21 +31,26 @@ Health-conscious users experiencing "app fatigue" from using too many disconnect
 
 Caregivers who need to monitor the well-being of a loved one.
 <hr>
+<br>
+<hr>
 <b>🔬 Methodology</b>
+<br>
 <b>Research & Ideation –</b> We identified the critical user pain point of "app fatigue" in the digital health space. Our brainstorming focused on creating a solution centered on intelligent synthesis rather than just data tracking.
-
+<br>
 <b>Design –</b> The UI/UX was designed with a "Calm Technology" philosophy, using a neutral color palette and a clean, card-based interface to reduce user anxiety. The system was architected using a scalable, serverless backend (Firebase) and a powerful large language model (Gemini API).
-
+<br>
 <b>Develop –</b> We built a high-fidelity, fully functional prototype (intellihealth_app.html) that implements secure user authentication, a real-time Firestore database, and live API calls to the Gemini API for all core intelligent features.
-
+<br>
 <b>Test –</b> We conducted rigorous functional testing on the prototype to ensure a seamless user journey, from onboarding to real-time data updates and AI interactions.
-
+<br>
 <b>Deploy –</b> Our prototype is a self-contained, deployable static web application, serving as a robust proof-of-concept for the project's viability.
-
+<br>
 <b>Future Scope –</b> Our roadmap includes deeper personalization through symptom and mood tracking, integration with wearable devices via Apple HealthKit and Google Fit, AI-powered grocery list generation, and a secure, view-only Caregiver Mode.
+<br>
 <hr>
 <b>👥 Team Details</b>
-<b>Team Name:</b>Dreamers
+<br>
+<b>Team Name:</b>Dreamers<br>
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
@@ -80,18 +86,18 @@ Caregivers who need to monitor the well-being of a loved one.
 <hr>
 
 <hr>
-<b>🛠️ Technology Stack</b>
+<b>🛠️ Technology Stack</b><br>
 HTML | Tailwind CSS | JavaScript | Firebase (Firestore & Auth) | Gemini API
 <hr>
-<b>📹 Demonstration Video</b>
+<b>📹 Demonstration Video</b><br>
 <a href="https://youtu.be/J7wbnatRgGQ?si=iaLr7IhSzowYQxDh">
 ▶️ Your YouTube </a>
 <hr>
-🌐 Deployment
+🌐 Deployment<br>
 <a href="https://aignite-red.vercel.app/">
 🔗 Your Live Demo Link</a>
 <hr>
-<b>📚 References</b>
+<b>📚 References</b><br>
 
 Firebase Documentation
 
@@ -113,7 +119,7 @@ Tailwind CSS Documentation
 
 
 
-<strong>Login & Dashboard Screenshot</strong>
+
 
 
 
@@ -126,7 +132,7 @@ Tailwind CSS Documentation
 
 
 
-<strong>AI Features Screenshot</strong>
+
 
 
 
@@ -135,7 +141,7 @@ Tailwind CSS Documentation
 </p>
 
 <hr/>
-
+<br>
 <p align="center">
 <b>Hackathon:</b> AIGNITE 2K25 | Organized by MLSC
 </p>
