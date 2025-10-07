@@ -37,19 +37,19 @@ Caregivers who need to monitor the well-being of a loved one.
 <hr>
 <br>
 <b>Research & Ideation –</b> We identified the critical user pain point of "app fatigue" in the digital health space. Our brainstorming focused on creating a solution centered on intelligent synthesis rather than just data tracking.
-<br>
+<br><br>
 <b>Design –</b> The UI/UX was designed with a "Calm Technology" philosophy, using a neutral color palette and a clean, card-based interface to reduce user anxiety. The system was architected using a scalable, serverless backend (Firebase) and a powerful large language model (Gemini API).
-<br>
+<br><br>
 <b>Develop –</b> We built a high-fidelity, fully functional prototype (intellihealth_app.html) that implements secure user authentication, a real-time Firestore database, and live API calls to the Gemini API for all core intelligent features.
-<br>
+<br><br>
 <b>Test –</b> We conducted rigorous functional testing on the prototype to ensure a seamless user journey, from onboarding to real-time data updates and AI interactions.
-<br>
+<br><br>
 <b>Deploy –</b> Our prototype is a self-contained, deployable static web application, serving as a robust proof-of-concept for the project's viability.
-<br>
+<br><br>
 <b>Future Scope –</b> Our roadmap includes deeper personalization through symptom and mood tracking, integration with wearable devices via Apple HealthKit and Google Fit, AI-powered grocery list generation, and a secure, view-only Caregiver Mode.
-<br>
+<br><br>
 <hr>
-<b>👥 Team Details</b>
+<b>👥 Team Details</b><br><br>
 <hr>
 <br>
 <b>Team Name:</b>Dreamers<br>
