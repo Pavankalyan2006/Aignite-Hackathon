@@ -5,14 +5,14 @@
 <p><strong>Powered by MLSC</strong></p>
 </div>
 
-<div style="text-align: center;">
-  <p>
-    <strong>🚀 IntelliHealth Assistant</strong>
-  </p>
-  <p>
-    <em>Your Personal Health Synthesis Engine</em>
-  </p>
+<div align="center">
+
+  <h1>🚀 IntelliHealth Assistant</h1>
+
+  <em>Your Personal Health Synthesis Engine</em>
+
 </div>
+
 
 <hr>
 📖 Project Description
