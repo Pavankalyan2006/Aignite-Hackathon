@@ -59,10 +59,12 @@ V Siri Chandhana                 Team Member                          2311cs0206
 HTML | Tailwind CSS | JavaScript | Firebase (Firestore & Auth) | Gemini API
 <hr>
 <b>📹 Demonstration Video</b>
-▶️ Your YouTube / Google Drive Link Here
+<a href="https://youtu.be/J7wbnatRgGQ?si=iaLr7IhSzowYQxDh">
+▶️ Your YouTube </a>
 <hr>
 🌐 Deployment
-🔗 Your Live Demo Link Here
+<a href="https://aignite-red.vercel.app/">
+🔗 Your Live Demo Link</a>
 <hr>
 <b>📚 References</b>
 
