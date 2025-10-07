@@ -9,9 +9,12 @@
 <strong>🚀 IntelliHealth Assistant</strong>
 
 
-<center>
 
-<em>Your Personal Health Synthesis Engine</em></center>
+
+<center>
+  <em>Your Personal Health Synthesis Engine</em>
+</center>
+
 </p>
 <hr>
 📖 Project Description
