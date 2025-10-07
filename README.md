@@ -46,14 +46,39 @@ Caregivers who need to monitor the well-being of a loved one.
 <b>👥 Team Details</b>
 <b>Team Name:</b>Dreamers
 
-Name                                Role                                                     Email
-Vagicherla Pavan Kalyan          Team Lead                            2311cs020673@mallareddyuniversity.ac.in
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Role</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Vagicherla Pavan Kalyan</td>
+      <td>Team Lead</td>
+      <td>2311cs020673@mallareddyuniversity.ac.in</td>
+    </tr>
+    <tr>
+      <td>Surisetty Maruthi Ram Prakash</td>
+      <td>Team Member</td>
+      <td>2311cs020641@mallareddyuniversity.ac.in</td>
+    </tr>
+    <tr>
+      <td>Syed Mohammad Asad</td>
+      <td>Team Member</td>
+      <td>2311cs020643@mallareddyuniversity.ac.in</td>
+    </tr>
+    <tr>
+      <td>V Siri Chandhana</td>
+      <td>Team Member</td>
+      <td>2311cs020671@mallareddyuniversity.ac.in</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
 
-Surisetty Maruthi Ram Prakash    Team Member                          2311cs020641@mallareddyuniversity.ac.in
-
-Syed Mohammad Asad               Team Member                          2311cs020643@mallareddyuniversity.ac.in
-
-V Siri Chandhana                 Team Member                          2311cs020671@mallareddyuniversity.ac.in
 <hr>
 <b>🛠️ Technology Stack</b>
 HTML | Tailwind CSS | JavaScript | Firebase (Firestore & Auth) | Gemini API
