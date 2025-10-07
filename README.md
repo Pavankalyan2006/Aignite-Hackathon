@@ -100,42 +100,42 @@ Tailwind CSS Documentation
 <br>
 <b>🖼️ Assets / Screenshots</b>
 <p align="center">
-<em>(Replace with your actual screenshots)</em>
+<strong>Application Logo</strong>
 
 
 
 
-<img src="https://www.google.com/search?q=https://placehold.co/220x220/f3f4f6/3b82f6%3Ftext%3DYour%2BLogo" alt="Application Logo" width="220" />
-
-
-
-
-
-
-<strong>Login & Dashboard</strong>
-
-
-
-
-<img src="https://www.google.com/search?q=https://placehold.co/600x400/ffffff/333333%3Ftext%3DApp%2BLogin%2BScreen%2BScreenshot" alt="Application Screenshot" width="600" />
+<img src="https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1_mH5op23iJfTVVFQoNwSApRJvp1PDP7I" alt="Application Logo" width="220" />
 
 
 
 
 
 
-<strong>AI Diet Planner & Mindful Moment</strong>
+
+<strong>Login & Dashboard Screenshot</strong>
 
 
 
 
-<img src="https://www.google.com/search?q=https://placehold.co/600x400/ffffff/333333%3Ftext%3DAI%2BFeature%2BScreenshot" alt="Application Screenshot" width="600" />
+<img src="https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1TGoqFLc6imQf5mPYGr-83rCeT_5BweJH" alt="Login and Dashboard Screenshot" width="600" />
+
+
+
+
+
+
+
+<strong>AI Features Screenshot</strong>
+
+
+
+
+<img src="https://www.google.com/search?q=https://drive.google.com/uc%3Fid%3D1rTa0asd1Jko1NxW0lLHImCS39rQBzl52" alt="AI Features Screenshot" width="600" />
 </p>
+
+<hr/>
 
 <p align="center">
 <b>Hackathon:</b> AIGNITE 2K25 | Organized by MLSC
-
-
-
-
 </p>
