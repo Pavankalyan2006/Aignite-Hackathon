@@ -17,7 +17,7 @@
 <hr>
 📖 Project Description
 <br><br><br>
-<b>✨ Problem Statement:</b> How Might We transform the fragmented and often stressful daily chore of health management into a simple, unified, and empowering experience for everyone, especially those managing chronic conditions?<br>
+<b>✨ Problem Statement:</b> How Might We transform the fragmented and often stressful daily chore of health management into a simple, unified, and empowering experience for everyone, especially those managing chronic conditions?<br><br><br>
 
 <b>💡 Proposed Solution: </b>IntelliHealth Assistant is a mobile-first web application that acts as a single, intelligent source of truth for a user's well-being. It replaces the chaos of juggling multiple health apps with a unified dashboard. Our solution's core innovation is its ability to synthesize and create a truly interconnected ecosystem for health. It uses an LLM to connect a user's personal health profile, daily activities, and real-time environmental factors into a single, constantly evolving health plan.
 
